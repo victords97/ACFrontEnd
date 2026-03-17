@@ -1,6 +1,5 @@
 import { Phone, Mail, MapPin, Facebook, Instagram, Linkedin } from 'lucide-react';
-
-const LOGO_URL = "https://customer-assets.emergentagent.com/job_automation-hub-185/artifacts/ir8oyaei_ChatGPT%20Image%2017_03_2026%2C%2016_16_47.png";
+import logoAC from '@/assets/logoAC.png';
 
 export const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -46,7 +45,7 @@ export const Footer = () => {
             {/* Company Info */}
             <div className="lg:col-span-1">
               <img 
-                src={LOGO_URL} 
+                src={logoAC} 
                 alt="AnaCeci Logo" 
                 className="h-12 w-auto mb-6"
                 data-testid="footer-logo"

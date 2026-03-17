@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
-
-const LOGO_URL = "https://customer-assets.emergentagent.com/job_automation-hub-185/artifacts/ir8oyaei_ChatGPT%20Image%2017_03_2026%2C%2016_16_47.png";
+import logoAC from '@/assets/logoAC.png';
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -52,7 +51,7 @@ export const Navbar = () => {
             data-testid="navbar-logo"
           >
             <img 
-              src={LOGO_URL} 
+              src={logoAC} 
               alt="AnaCeci Logo" 
               className="h-12 w-auto"
             />
