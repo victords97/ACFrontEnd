@@ -19,11 +19,6 @@
   color: white;
 }
 
-/* Image loading placeholder */
-img {
-  background-color: #e2e8f0;
-}
-
 /* Focus visible styles for accessibility */
 a:focus-visible,
 button:focus-visible,
