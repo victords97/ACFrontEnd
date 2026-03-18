@@ -52,7 +52,7 @@ export const Navbar = () => {
           >
             <img 
               src={logoAC} 
-              alt="AnaCeci Logo" 
+              alt="AC Engenharia Inovacao e Tecnologia" 
               className="h-16 w-auto"
             />
           </a>

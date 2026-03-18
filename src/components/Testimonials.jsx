@@ -7,7 +7,7 @@ const testimonials = [
     name: 'Carlos Eduardo Silva',
     company: 'Indústria Alimentícia Silva',
     role: 'Diretor de Operações',
-    content: 'A AnaCeci transformou completamente nossa linha de produção. A automação implementada aumentou nossa eficiência em 40% e reduziu custos operacionais significativamente.',
+    content: 'A AC Engenharia Inovacao e Tecnologia transformou completamente nossa linha de produção. A automação implementada aumentou nossa eficiência em 40% e reduziu custos operacionais significativamente.',
     rating: 5,
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face'
   },
@@ -25,7 +25,7 @@ const testimonials = [
     name: 'Roberto Almeida',
     company: 'Comércio Almeida LTDA',
     role: 'Gerente Geral',
-    content: 'O sistema PDV implantado pela AnaCeci revolucionou nossa operação. Controle total das vendas e estoque em tempo real. Suporte técnico impecável.',
+    content: 'O sistema PDV implantado pela AC Engenharia Inovacao e Tecnologia revolucionou nossa operação. Controle total das vendas e estoque em tempo real. Suporte técnico impecável.',
     rating: 5,
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face'
   },
@@ -43,7 +43,7 @@ const testimonials = [
     name: 'Fernando Nascimento',
     company: 'Distribuidora Norte',
     role: 'Gerente de TI',
-    content: 'A equipe de infraestrutura da AnaCeci reestruturou toda nossa rede de computadores e servidores. Atendimento rápido e eficiente. Nossa produtividade aumentou muito!',
+    content: 'A equipe de infraestrutura da AC Engenharia Inovacao e Tecnologia reestruturou toda nossa rede de computadores e servidores. Atendimento rápido e eficiente. Nossa produtividade aumentou muito!',
     rating: 5,
     image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face'
   }

@@ -46,7 +46,7 @@ export const Footer = () => {
             <div className="lg:col-span-1">
               <img 
                 src={logoAC} 
-                alt="AnaCeci Logo" 
+                alt="AC Engenharia Inovacao e Tecnologia" 
                 className="h-16 w-auto mb-6"
                 data-testid="footer-logo"
               />
@@ -166,7 +166,7 @@ export const Footer = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-slate-400 text-sm text-center md:text-left">
-                © {currentYear} AnaCeci Automação e Manutenção Industrial. Todos os direitos reservados.
+                © {currentYear} AC Engenharia Inovacao e Tecnologia. Todos os direitos reservados.
               </p>
               <div className="flex gap-6 text-sm">
                 <a href="#" className="text-slate-400 hover:text-white transition-colors">

@@ -1,6 +1,5 @@
 import { Shield, Award, Clock, Users } from 'lucide-react';
-
-const ABOUT_IMAGE = "https://customer-assets.emergentagent.com/job_automation-hub-185/artifacts/29fflzui_ChatGPT%20Image%2017_03_2026%2C%2016_26_28.png";
+import aboutImage from '@/assets/Técnico sorridente da AC Engenharia.png';
 
 const features = [
   {
@@ -38,8 +37,8 @@ export const About = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src={ABOUT_IMAGE}
-                alt="Equipe AnaCeci"
+                src={aboutImage}
+                alt="Equipe AC Engenharia Inovacao e Tecnologia"
                 className="w-full h-auto object-cover"
                 data-testid="about-image"
               />
@@ -64,7 +63,7 @@ export const About = () => {
             </div>
 
             <p className="text-slate-600 text-lg leading-relaxed">
-              A <strong className="text-[#1a365d]">AnaCeci Automação e Manutenção Industrial</strong> nasceu 
+              A <strong className="text-[#1a365d]">AC Engenharia Inovacao e Tecnologia</strong> nasceu 
               com a missão de oferecer soluções completas e integradas para empresas que buscam 
               eficiência operacional e tecnologia de ponta.
             </p>
