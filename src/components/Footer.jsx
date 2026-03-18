@@ -47,7 +47,7 @@ export const Footer = () => {
               <img 
                 src={logoAC} 
                 alt="AnaCeci Logo" 
-                className="h-12 w-auto mb-6"
+                className="h-16 w-auto mb-6"
                 data-testid="footer-logo"
               />
               <p className="text-slate-300 mb-6 leading-relaxed">
