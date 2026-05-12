@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# VotaFucapi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema de votação desenvolvido para auxiliar no processo de escolha de projetos durante eventos acadêmicos, utilizando autenticação e controle de votos para evitar duplicidade.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Funcionalidades
 
-### `npm start`
+- Cadastro de usuários
+- Sistema de votação online
+- Controle de voto único
+- Contagem automática dos votos
+- Interface web responsiva
+- Organização dos projetos participantes
+- Exibição de resultados em tempo real
+- Integração com formulários digitais
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Tecnologias Utilizadas
 
-### `npm test`
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Node.js
+- Git e GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📷 Imagens do Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tela Inicial
+<img src="./src/assets/tela1.png" width="700"/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tela de Votação
+<img src="./src/assets/tela2.png" width="700"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Resultado da Votação
+<img src="./src/assets/tela3.png" width="700"/>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ Como Executar o Projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone o repositório:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/victords97/VotaFucapi.git
 
-## Learn More
+Acesse a pasta do projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+cd VotaFucapi
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Instale as dependências:
 
-### Code Splitting
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Execute o projeto:
 
-### Analyzing the Bundle Size
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+O sistema estará disponível em:
 
-### Making a Progressive Web App
+http://localhost:3000
+📖 Objetivo do Projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+O projeto foi desenvolvido com o objetivo de modernizar e facilitar o processo de votação acadêmica, oferecendo uma solução digital capaz de organizar os votos, reduzir erros manuais e melhorar a experiência dos participantes durante eventos e feiras tecnológicas.
 
-### Advanced Configuration
+💡 Aprendizados
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 
-### Deployment
+Desenvolvimento Front-End
+Componentização com React
+Gerenciamento de estados
+Estruturação de interfaces responsivas
+Organização de projetos web
+Controle de versão utilizando GitHub
+📌 Melhorias Futuras
+Sistema de login e autenticação
+Banco de dados em nuvem
+Dashboard administrativa
+Exportação de relatórios
+Sistema de gráficos estatísticos
+Integração com API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+👨‍💻 Autor
+Victor Pontes dos Santos
 
-### `npm run build` fails to minify
+GitHub:
+https://github.com/victords97
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+LinkedIn:
+www.linkedin.com/in/victor-pontes-7271631a0
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
